@@ -11,7 +11,8 @@ int main()
   
   int temp = a;
   a = b;
-  b = temp; 
+  b =temp; 
+  
   
   printf("After swapping");
   printf("Value of a: %d", a);
