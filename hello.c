@@ -2,7 +2,7 @@
 
 int main()
 {
-  int a = 45;
+  int a = 15;
   int b = 60;
   
   printf("Before swapping");
